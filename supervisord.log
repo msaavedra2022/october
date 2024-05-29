@@ -1,0 +1,371 @@
+2024-05-27 14:50:58,116 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-05-27 14:50:58,117 INFO supervisord started with pid 1
+2024-05-27 14:50:59,121 INFO spawned: 'nginx' with pid 7
+2024-05-27 14:50:59,122 INFO spawnerr: can't find command '/usr/sbin/php-fpm8.0'
+2024-05-27 14:51:00,136 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:51:00,137 INFO spawnerr: can't find command '/usr/sbin/php-fpm8.0'
+2024-05-27 14:51:02,139 INFO spawnerr: can't find command '/usr/sbin/php-fpm8.0'
+2024-05-27 14:51:05,143 INFO spawnerr: can't find command '/usr/sbin/php-fpm8.0'
+2024-05-27 14:51:05,143 INFO gave up: php-fpm entered FATAL state, too many start retries too quickly
+2024-05-27 14:52:35,241 WARN received SIGTERM indicating exit request
+2024-05-27 14:52:35,241 INFO waiting for nginx to die
+2024-05-27 14:52:36,245 INFO stopped: nginx (exit status 0)
+2024-05-27 14:52:40,116 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-05-27 14:52:40,117 INFO supervisord started with pid 1
+2024-05-27 14:52:41,121 INFO spawned: 'nginx' with pid 7
+2024-05-27 14:52:41,122 INFO spawnerr: can't find command '/usr/sbin/php-fpm8.0'
+2024-05-27 14:52:42,136 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:52:42,136 INFO spawnerr: can't find command '/usr/sbin/php-fpm8.0'
+2024-05-27 14:52:44,138 INFO spawnerr: can't find command '/usr/sbin/php-fpm8.0'
+2024-05-27 14:52:46,141 WARN received SIGTERM indicating exit request
+2024-05-27 14:52:46,141 INFO waiting for nginx to die
+2024-05-27 14:52:47,145 INFO stopped: nginx (exit status 0)
+2024-05-27 14:53:03,568 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-05-27 14:53:03,569 INFO supervisord started with pid 1
+2024-05-27 14:53:04,573 INFO spawned: 'nginx' with pid 6
+2024-05-27 14:53:04,577 INFO spawned: 'php-fpm' with pid 7
+2024-05-27 14:53:05,610 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:53:05,610 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:53:05,611 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:53:06,615 INFO spawned: 'php-fpm' with pid 20
+2024-05-27 14:53:07,658 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:53:07,658 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:53:08,661 INFO spawned: 'php-fpm' with pid 21
+2024-05-27 14:53:09,696 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:53:09,696 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:53:10,698 INFO spawned: 'php-fpm' with pid 22
+2024-05-27 14:53:11,728 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:53:11,728 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:53:12,730 INFO spawned: 'php-fpm' with pid 23
+2024-05-27 14:53:13,758 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:53:13,758 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:53:14,760 INFO spawned: 'php-fpm' with pid 24
+2024-05-27 14:53:15,789 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:53:15,789 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:53:16,791 INFO spawned: 'php-fpm' with pid 25
+2024-05-27 14:53:17,818 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:53:17,818 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:53:18,820 INFO spawned: 'php-fpm' with pid 26
+2024-05-27 14:53:19,847 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:53:19,847 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:53:20,851 INFO spawned: 'php-fpm' with pid 27
+2024-05-27 14:53:21,892 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:53:21,893 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:53:22,896 INFO spawned: 'php-fpm' with pid 28
+2024-05-27 14:53:23,938 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:53:23,938 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:53:24,942 INFO spawned: 'php-fpm' with pid 29
+2024-05-27 14:53:25,979 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:53:25,979 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:53:26,983 INFO spawned: 'php-fpm' with pid 30
+2024-05-27 14:53:28,024 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:53:28,024 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:53:29,026 INFO spawned: 'php-fpm' with pid 31
+2024-05-27 14:53:30,058 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:53:30,058 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:53:31,060 INFO spawned: 'php-fpm' with pid 32
+2024-05-27 14:53:32,095 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:53:32,095 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:53:33,097 INFO spawned: 'php-fpm' with pid 33
+2024-05-27 14:53:34,126 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:53:34,126 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:53:35,128 INFO spawned: 'php-fpm' with pid 40
+2024-05-27 14:53:36,157 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:53:36,157 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:53:37,159 INFO spawned: 'php-fpm' with pid 41
+2024-05-27 14:53:38,190 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:53:38,190 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:53:39,192 INFO spawned: 'php-fpm' with pid 42
+2024-05-27 14:53:40,220 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:53:40,220 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:53:41,223 INFO spawned: 'php-fpm' with pid 43
+2024-05-27 14:53:42,255 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:53:42,255 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:53:43,257 INFO spawned: 'php-fpm' with pid 44
+2024-05-27 14:53:44,286 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:53:44,286 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:53:45,290 INFO spawned: 'php-fpm' with pid 45
+2024-05-27 14:53:46,318 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:53:46,318 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:53:47,320 INFO spawned: 'php-fpm' with pid 46
+2024-05-27 14:53:48,347 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:53:48,347 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:53:49,351 INFO spawned: 'php-fpm' with pid 47
+2024-05-27 14:53:50,388 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:53:50,388 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:53:51,392 INFO spawned: 'php-fpm' with pid 48
+2024-05-27 14:53:52,432 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:53:52,432 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:53:53,436 INFO spawned: 'php-fpm' with pid 49
+2024-05-27 14:53:54,477 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:53:54,477 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:53:55,481 INFO spawned: 'php-fpm' with pid 50
+2024-05-27 14:53:56,509 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:53:56,509 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:53:57,511 INFO spawned: 'php-fpm' with pid 51
+2024-05-27 14:53:58,541 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:53:58,541 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:53:59,544 INFO spawned: 'php-fpm' with pid 64
+2024-05-27 14:54:00,585 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:54:00,585 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:54:01,587 INFO spawned: 'php-fpm' with pid 66
+2024-05-27 14:54:02,612 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:54:02,612 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:54:03,615 INFO spawned: 'php-fpm' with pid 73
+2024-05-27 14:54:04,644 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:54:04,644 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:54:05,647 INFO spawned: 'php-fpm' with pid 74
+2024-05-27 14:54:06,684 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:54:06,684 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:54:07,687 INFO spawned: 'php-fpm' with pid 75
+2024-05-27 14:54:08,715 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:54:08,715 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:54:09,717 INFO spawned: 'php-fpm' with pid 76
+2024-05-27 14:54:10,746 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:54:10,746 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:54:11,748 INFO spawned: 'php-fpm' with pid 77
+2024-05-27 14:54:12,775 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:54:12,775 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:54:13,777 INFO spawned: 'php-fpm' with pid 78
+2024-05-27 14:54:14,805 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:54:14,805 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:54:15,808 INFO spawned: 'php-fpm' with pid 79
+2024-05-27 14:54:16,838 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:54:16,838 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:54:17,840 INFO spawned: 'php-fpm' with pid 80
+2024-05-27 14:54:18,868 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:54:18,868 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:54:19,871 INFO spawned: 'php-fpm' with pid 82
+2024-05-27 14:54:20,904 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:54:20,904 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:54:21,906 INFO spawned: 'php-fpm' with pid 83
+2024-05-27 14:54:22,941 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:54:22,941 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:54:23,943 INFO spawned: 'php-fpm' with pid 84
+2024-05-27 14:54:24,972 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:54:24,972 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:54:25,974 INFO spawned: 'php-fpm' with pid 85
+2024-05-27 14:54:27,004 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:54:27,004 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:54:28,006 INFO spawned: 'php-fpm' with pid 86
+2024-05-27 14:54:29,038 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:54:29,038 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:54:30,040 INFO spawned: 'php-fpm' with pid 87
+2024-05-27 14:54:31,073 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:54:31,073 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:54:32,077 INFO spawned: 'php-fpm' with pid 88
+2024-05-27 14:54:33,120 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:54:33,120 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:54:34,122 INFO spawned: 'php-fpm' with pid 95
+2024-05-27 14:54:35,151 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:54:35,151 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:54:36,154 INFO spawned: 'php-fpm' with pid 96
+2024-05-27 14:54:37,182 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:54:37,183 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:54:38,185 INFO spawned: 'php-fpm' with pid 97
+2024-05-27 14:54:39,212 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:54:39,212 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:54:40,216 INFO spawned: 'php-fpm' with pid 98
+2024-05-27 14:54:41,253 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:54:41,254 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:54:42,257 INFO spawned: 'php-fpm' with pid 99
+2024-05-27 14:54:43,286 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:54:43,287 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:54:44,289 INFO spawned: 'php-fpm' with pid 100
+2024-05-27 14:54:45,315 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:54:45,315 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:54:46,317 INFO spawned: 'php-fpm' with pid 101
+2024-05-27 14:54:47,345 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:54:47,346 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:54:48,348 INFO spawned: 'php-fpm' with pid 102
+2024-05-27 14:54:49,376 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:54:49,376 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:54:50,379 INFO spawned: 'php-fpm' with pid 103
+2024-05-27 14:54:51,406 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:54:51,406 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:54:52,408 INFO spawned: 'php-fpm' with pid 104
+2024-05-27 14:54:53,434 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:54:53,434 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:54:54,438 INFO spawned: 'php-fpm' with pid 105
+2024-05-27 14:54:55,466 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:54:55,466 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:54:56,468 INFO spawned: 'php-fpm' with pid 106
+2024-05-27 14:54:57,495 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:54:57,496 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:54:58,499 INFO spawned: 'php-fpm' with pid 107
+2024-05-27 14:54:59,541 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:54:59,541 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:55:00,544 INFO spawned: 'php-fpm' with pid 108
+2024-05-27 14:55:01,575 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:55:01,575 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:55:02,579 INFO spawned: 'php-fpm' with pid 109
+2024-05-27 14:55:03,606 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:55:03,606 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:55:04,609 INFO spawned: 'php-fpm' with pid 116
+2024-05-27 14:55:05,642 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:55:05,642 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:55:06,646 INFO spawned: 'php-fpm' with pid 117
+2024-05-27 14:55:07,674 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:55:07,674 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:55:08,678 INFO spawned: 'php-fpm' with pid 118
+2024-05-27 14:55:09,708 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:55:09,709 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:55:10,711 INFO spawned: 'php-fpm' with pid 119
+2024-05-27 14:55:11,737 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:55:11,737 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:55:12,741 INFO spawned: 'php-fpm' with pid 120
+2024-05-27 14:55:13,783 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:55:13,783 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:55:14,787 INFO spawned: 'php-fpm' with pid 121
+2024-05-27 14:55:15,816 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:55:15,816 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:55:16,820 INFO spawned: 'php-fpm' with pid 122
+2024-05-27 14:55:17,862 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:55:17,862 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:55:18,866 INFO spawned: 'php-fpm' with pid 123
+2024-05-27 14:55:19,895 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:55:19,895 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:55:20,899 INFO spawned: 'php-fpm' with pid 124
+2024-05-27 14:55:21,944 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:55:21,944 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:55:22,948 INFO spawned: 'php-fpm' with pid 125
+2024-05-27 14:55:23,980 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:55:23,980 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:55:24,984 INFO spawned: 'php-fpm' with pid 126
+2024-05-27 14:55:26,023 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:55:26,023 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:55:27,025 INFO spawned: 'php-fpm' with pid 127
+2024-05-27 14:55:28,052 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:55:28,053 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:55:29,054 INFO spawned: 'php-fpm' with pid 128
+2024-05-27 14:55:30,080 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:55:30,080 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:55:31,084 INFO spawned: 'php-fpm' with pid 129
+2024-05-27 14:55:32,125 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:55:32,125 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:55:33,127 INFO spawned: 'php-fpm' with pid 130
+2024-05-27 14:55:34,158 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:55:34,158 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:55:35,161 INFO spawned: 'php-fpm' with pid 137
+2024-05-27 14:55:36,193 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:55:36,193 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:55:37,197 INFO spawned: 'php-fpm' with pid 138
+2024-05-27 14:55:38,225 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:55:38,226 INFO exited: php-fpm (exit status 78; not expected)
+2024-05-27 14:55:39,228 INFO spawned: 'php-fpm' with pid 139
+2024-05-27 14:55:39,228 WARN received SIGTERM indicating exit request
+2024-05-27 14:55:39,228 INFO waiting for nginx, php-fpm to die
+2024-05-27 14:55:40,256 INFO stopped: php-fpm (exit status 78)
+2024-05-27 14:55:40,259 INFO stopped: nginx (exit status 0)
+2024-05-27 14:56:26,875 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-05-27 14:56:26,876 INFO supervisord started with pid 1
+2024-05-27 14:56:27,879 INFO spawned: 'nginx' with pid 7
+2024-05-27 14:56:27,883 INFO spawned: 'php-fpm' with pid 8
+2024-05-27 14:56:28,912 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:56:28,912 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 14:58:18,031 WARN received SIGTERM indicating exit request
+2024-05-27 14:58:18,031 INFO waiting for nginx, php-fpm to die
+2024-05-27 14:58:19,033 INFO stopped: php-fpm (exit status 0)
+2024-05-27 14:58:19,037 INFO stopped: nginx (exit status 0)
+2024-05-27 15:10:42,613 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-05-27 15:10:42,613 INFO supervisord started with pid 1
+2024-05-27 15:10:43,617 INFO spawned: 'nginx' with pid 7
+2024-05-27 15:10:43,620 INFO spawned: 'php-fpm' with pid 8
+2024-05-27 15:10:44,649 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 15:10:44,649 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 15:12:26,765 WARN received SIGTERM indicating exit request
+2024-05-27 15:12:26,765 INFO waiting for nginx, php-fpm to die
+2024-05-27 15:12:27,766 INFO stopped: php-fpm (exit status 0)
+2024-05-27 15:12:27,770 INFO stopped: nginx (exit status 0)
+2024-05-27 15:19:35,574 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-05-27 15:19:35,575 INFO supervisord started with pid 1
+2024-05-27 15:19:36,577 INFO spawned: 'nginx' with pid 6
+2024-05-27 15:19:36,578 INFO spawnerr: can't find command '/usr/sbin/php-fpm8.0'
+2024-05-27 15:19:37,588 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 15:19:37,588 INFO spawnerr: can't find command '/usr/sbin/php-fpm8.0'
+2024-05-27 15:19:39,591 INFO spawnerr: can't find command '/usr/sbin/php-fpm8.0'
+2024-05-27 15:19:42,595 INFO spawnerr: can't find command '/usr/sbin/php-fpm8.0'
+2024-05-27 15:19:42,595 INFO gave up: php-fpm entered FATAL state, too many start retries too quickly
+2024-05-27 15:19:44,598 WARN received SIGTERM indicating exit request
+2024-05-27 15:19:44,598 INFO waiting for nginx to die
+2024-05-27 15:19:45,603 INFO stopped: nginx (exit status 0)
+2024-05-27 15:22:15,069 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-05-27 15:22:15,070 INFO supervisord started with pid 1
+2024-05-27 15:22:16,074 INFO spawned: 'nginx' with pid 7
+2024-05-27 15:22:16,077 INFO spawned: 'php-fpm' with pid 8
+2024-05-27 15:22:17,113 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 15:22:17,113 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 15:23:58,226 WARN received SIGTERM indicating exit request
+2024-05-27 15:23:58,226 INFO waiting for nginx, php-fpm to die
+2024-05-27 15:23:59,228 INFO stopped: php-fpm (exit status 0)
+2024-05-27 15:23:59,232 INFO stopped: nginx (exit status 0)
+2024-05-27 15:24:01,528 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-05-27 15:24:01,529 INFO supervisord started with pid 1
+2024-05-27 15:24:02,532 INFO spawned: 'nginx' with pid 7
+2024-05-27 15:24:02,535 INFO spawned: 'php-fpm' with pid 8
+2024-05-27 15:24:03,560 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 15:24:03,560 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 15:24:06,564 WARN received SIGTERM indicating exit request
+2024-05-27 15:24:06,565 INFO waiting for nginx, php-fpm to die
+2024-05-27 15:24:07,566 INFO stopped: php-fpm (exit status 0)
+2024-05-27 15:24:07,573 INFO stopped: nginx (exit status 0)
+2024-05-27 15:24:10,779 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-05-27 15:24:10,780 INFO supervisord started with pid 1
+2024-05-27 15:24:11,782 INFO spawned: 'nginx' with pid 7
+2024-05-27 15:24:11,784 INFO spawned: 'php-fpm' with pid 8
+2024-05-27 15:24:12,811 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 15:24:12,811 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 15:24:36,841 INFO reaped unknown pid 36 (exit status 1)
+2024-05-27 15:25:17,892 INFO reaped unknown pid 51 (exit status 1)
+2024-05-27 15:25:21,898 INFO reaped unknown pid 54 (exit status 1)
+2024-05-27 15:25:54,932 WARN received SIGTERM indicating exit request
+2024-05-27 15:25:54,933 INFO waiting for nginx, php-fpm to die
+2024-05-27 15:25:55,934 INFO stopped: php-fpm (exit status 0)
+2024-05-27 15:25:55,937 INFO stopped: nginx (exit status 0)
+2024-05-27 15:25:57,836 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-05-27 15:25:57,837 INFO supervisord started with pid 1
+2024-05-27 15:25:58,839 INFO spawned: 'nginx' with pid 7
+2024-05-27 15:25:58,840 INFO spawned: 'php-fpm' with pid 8
+2024-05-27 15:25:59,868 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 15:25:59,868 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 15:26:24,895 INFO reaped unknown pid 36 (exit status 1)
+2024-05-27 15:26:37,909 WARN received SIGTERM indicating exit request
+2024-05-27 15:26:37,909 INFO waiting for nginx, php-fpm to die
+2024-05-27 15:26:38,910 INFO stopped: php-fpm (exit status 0)
+2024-05-27 15:26:38,913 INFO stopped: nginx (exit status 0)
+2024-05-27 15:26:49,648 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-05-27 15:26:49,649 INFO supervisord started with pid 1
+2024-05-27 15:26:50,651 INFO spawned: 'nginx' with pid 7
+2024-05-27 15:26:50,652 INFO spawned: 'php-fpm' with pid 8
+2024-05-27 15:26:51,680 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 15:26:51,680 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-27 15:28:40,798 WARN received SIGTERM indicating exit request
+2024-05-27 15:28:40,798 INFO waiting for nginx, php-fpm to die
+2024-05-27 15:28:41,800 INFO stopped: php-fpm (exit status 0)
+2024-05-27 15:28:41,804 INFO stopped: nginx (exit status 0)
+2024-05-28 11:00:41,623 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-05-28 11:00:41,624 INFO supervisord started with pid 1
+2024-05-28 11:00:42,627 INFO spawned: 'nginx' with pid 7
+2024-05-28 11:00:42,630 INFO spawned: 'php-fpm' with pid 8
+2024-05-28 11:00:43,709 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-28 11:00:43,709 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-28 11:22:28,023 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-05-28 11:22:28,024 INFO supervisord started with pid 1
+2024-05-28 11:22:29,026 INFO spawned: 'nginx' with pid 7
+2024-05-28 11:22:29,027 INFO spawned: 'php-fpm' with pid 8
+2024-05-28 11:22:30,058 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-28 11:22:30,058 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-28 12:19:12,729 WARN received SIGTERM indicating exit request
+2024-05-28 12:19:12,729 INFO waiting for nginx, php-fpm to die
+2024-05-28 12:19:13,731 INFO stopped: php-fpm (exit status 0)
+2024-05-28 12:19:13,735 INFO stopped: nginx (exit status 0)
+2024-05-28 12:22:56,645 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-05-28 12:22:56,646 INFO supervisord started with pid 1
+2024-05-28 12:22:57,649 INFO spawned: 'nginx' with pid 7
+2024-05-28 12:22:57,650 INFO spawned: 'php-fpm' with pid 8
+2024-05-28 12:22:58,679 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-28 12:22:58,679 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-28 12:23:39,725 WARN received SIGTERM indicating exit request
+2024-05-28 12:23:39,725 INFO waiting for nginx, php-fpm to die
+2024-05-28 12:23:40,725 INFO stopped: php-fpm (exit status 0)
+2024-05-28 12:23:40,730 INFO stopped: nginx (exit status 0)
