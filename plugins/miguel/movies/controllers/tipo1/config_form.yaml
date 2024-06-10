@@ -1,0 +1,10 @@
+name: Tipo1
+form: $/miguel/movies/models/tipo/fields.yaml
+modelClass: Miguel\Movies\Models\Tipo
+defaultRedirect: miguel/movies/tipo1
+create:
+    redirect: 'miguel/movies/tipo1/update/:id'
+    redirectClose: miguel/movies/tipo1
+update:
+    redirect: miguel/movies/tipo1
+    redirectClose: miguel/movies/tipo1

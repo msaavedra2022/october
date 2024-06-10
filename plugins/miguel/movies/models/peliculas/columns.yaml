@@ -1,0 +1,20 @@
+columns:
+    id:
+        label: 'Numero de ID'
+        type: number
+        searchable: true
+        sortable: true
+    name:
+        label: Nombre
+        type: text
+        searchable: true
+        sortable: true
+    url:
+        label: Enlace
+        type: text
+    created_at:
+        label: 'Fecha creación'
+        type: datetime
+    type_id:
+        label: 'Tipo ID'
+        type: number

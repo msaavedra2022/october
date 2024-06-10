@@ -1,0 +1,10 @@
+name: Tipo2
+form: $/miguel/movies/models/tipo2/fields.yaml
+modelClass: Miguel\Movies\Models\Tipo2
+defaultRedirect: miguel/movies/tipo2
+create:
+    redirect: 'miguel/movies/tipo2/update/:id'
+    redirectClose: miguel/movies/tipo2
+update:
+    redirect: miguel/movies/tipo2
+    redirectClose: miguel/movies/tipo2

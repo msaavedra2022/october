@@ -1,0 +1,12 @@
+list: $/miguel/movies/models/tipo2/columns.yaml
+modelClass: Miguel\Movies\Models\Tipo2
+title: Tipo2
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'miguel/movies/tipo2/update/:id'

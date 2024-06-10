@@ -1,0 +1,47 @@
+v1.0.1:
+    - 'Initialize plugin'
+v1.0.2:
+    - 'Created table miguel_movies_registro_peliculas'
+    - builder_table_create_miguel_movies_registro_peliculas.php
+v1.0.3:
+    - 'Updated table miguel_movies_registro_peliculas'
+    - builder_table_update_miguel_movies_registro_peliculas.php
+v1.0.4:
+    - 'Updated table miguel_movies_registro_peliculas'
+    - builder_table_update_miguel_movies_registro_peliculas_2.php
+v1.0.5:
+    - 'Updated table miguel_movies_registro_peliculas'
+    - builder_table_update_miguel_movies_registro_peliculas_3.php
+v1.0.6:
+    - 'Updated table miguel_movies_registro_peliculas'
+    - builder_table_update_miguel_movies_registro_peliculas_4.php
+v1.0.7:
+    - 'Updated table miguel_movies_registro_peliculas'
+    - builder_table_update_miguel_movies_registro_peliculas_5.php
+v1.0.8:
+    - 'Updated table miguel_movies_registro_peliculas'
+    - builder_table_update_miguel_movies_registro_peliculas_6.php
+v1.0.9:
+    - 'Created table miguel_movies_tipo_pelicula'
+    - builder_table_create_miguel_movies_tipo_pelicula.php
+v1.0.10:
+    - 'Updated table miguel_movies_tipo_pelicula'
+    - builder_table_update_miguel_movies_tipopelicula.php
+v1.0.11:
+    - 'Drop table miguel_movies_tipopelicula'
+    - builder_table_delete_miguel_movies_tipopelicula.php
+v1.0.12:
+    - 'Created table miguel_movies_tipo'
+    - builder_table_create_miguel_movies_tipo.php
+v1.0.13:
+    - 'Updated table miguel_movies_registro_peliculas'
+    - builder_table_update_miguel_movies_registro_peliculas_7.php
+v1.0.14:
+    - 'Updated table miguel_movies_registro_peliculas'
+    - builder_table_update_miguel_movies_registro_peliculas_8.php
+v1.0.15:
+    - 'Updated table miguel_movies_registro_peliculas'
+    - builder_table_update_miguel_movies_registro_peliculas_9.php
+v1.0.16:
+    - 'Updated table miguel_movies_registro_peliculas'
+    - builder_table_update_miguel_movies_registro_peliculas_10.php

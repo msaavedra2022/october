@@ -1,0 +1,16 @@
+fields:
+    name:
+        label: 'Nombre de pelicula'
+        span: auto
+        placeholder: 'Ingresar nombre'
+        type: text
+    url:
+        label: Enlace
+        span: auto
+        placeholder: 'Ingresar enlace'
+        default: ''
+        type: text
+    type_id:
+        label: 'Tipo de pelicula'
+        span: auto
+        type: number

@@ -1,0 +1,10 @@
+name: Peliculas
+form: $/miguel/movies/models/peliculas/fields.yaml
+modelClass: Miguel\Movies\Models\Peliculas
+defaultRedirect: miguel/movies/peliculas
+create:
+    redirect: 'miguel/movies/peliculas/update/:id'
+    redirectClose: miguel/movies/peliculas
+update:
+    redirect: miguel/movies/peliculas
+    redirectClose: miguel/movies/peliculas

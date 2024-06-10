@@ -1,0 +1,5 @@
+fields:
+    name:
+        label: 'Nombre de tipo de pelicula'
+        span: auto
+        type: text

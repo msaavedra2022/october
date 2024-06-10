@@ -1,0 +1,12 @@
+list: $/miguel/movies/models/peliculas/columns.yaml
+modelClass: Miguel\Movies\Models\Peliculas
+title: Peliculas
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'miguel/movies/peliculas/update/:id'

@@ -1,0 +1,20 @@
+plugin:
+    name: 'miguel.movies::lang.plugin.name'
+    description: 'miguel.movies::lang.plugin.description'
+    author: miguel
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'Menú Peliculas'
+        url: miguel/movies/peliculas
+        icon: icon-life-ring
+        sideMenu:
+            movie-menu:
+                label: Peliculas
+                url: miguel/movies/peliculas
+                icon: icon-video-camera
+            side-menu-tipo:
+                label: 'Tipo de pelicula'
+                url: miguel/movies/tipo2
+                icon: icon-sitemap
